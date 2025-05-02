@@ -2,7 +2,7 @@
     --lp-width: 900px;
     --background-color-1:#051313;
     --background-color-2:#050c13;
-    --text-color: #FFF;
+    --text-color: #f0f0f0;
     --quote-color:#b3b3b3;
 }
 
@@ -17,7 +17,7 @@ footer {
     justify-content: center;
     align-items: center;
     font-size: 10px;
-    padding: 14px 0;
+    padding: 8px 0;
     color: var(--text-color);
 }
 
@@ -62,9 +62,9 @@ footer a {
 
 #title {
     align-self: center;
-    max-height: 18vh;
-    max-width: 90vw;
-    margin: 40px 0;
+    max-height: 60px;
+    max-width: 90%;
+    margin: 64px 0;
 }
 
 .text {
